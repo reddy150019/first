@@ -1,2 +1,2 @@
-this is simple file
-
+hello
+good morning
